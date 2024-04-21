@@ -1,0 +1,8 @@
+cffi==1.16.0
+Faker==23.2.1
+psycopg2==2.9.9
+robotframework==7.0
+robotframework-appiumlibrary==2.0.0
+robotframework-browser==18.2.0
+robotframework-jsonlibrary==0.5
+robotframework-requests==0.9.6
