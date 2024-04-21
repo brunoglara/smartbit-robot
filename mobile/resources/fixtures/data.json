@@ -1,0 +1,67 @@
+{
+    "login": {
+        "account": {
+            "name": "User Test Mobile",
+            "email": "mobiletest@mobile.com.br",
+            "cpf": "07965022001"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "card_details": {
+            "number": "4242424242424242",
+            "month": "12",
+            "year": "2050",
+            "cvv": "123"
+        }
+    },
+    "update": {
+        "account": {
+            "name": "User for Measure Test Mobile",
+            "email": "measure@mobile.com.br",
+            "cpf": "89318715030",
+            "weight": 80,
+            "height": 190
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "card_details": {
+            "number": "4242424242424242",
+            "month": "12",
+            "year": "2050",
+            "cvv": "123"
+        }
+    },
+    "invalid": {
+        "account": {
+            "name": "User for Invalid",
+            "email": "invalidmeasure@mobile.com.br",
+            "cpf": "09001608027",
+            "weight": 78,
+            "height": 175
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "card_details": {
+            "number": "4242424242424242",
+            "month": "12",
+            "year": "2050",
+            "cvv": "123"
+        }
+    },
+    "unsubscribed": {
+        "account": {
+            "name": "Unsubscribed Test Mobile",
+            "email": "Unsubscribed@mobile.com.br",
+            "cpf": "62917046090"
+        }
+    }    
+}

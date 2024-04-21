@@ -1,0 +1,75 @@
+{
+    "create": {
+        "account": {
+            "name": "Paulo Cintura",
+            "email": "paulo@cintura.com.br",
+            "cpf": "05138356011"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "card_details": {
+            "number": "4242424242424242",
+            "month": "12",
+            "year": "2050",
+            "cvv": "123"
+        }
+    },
+    "duplicate": {
+        "account": {
+            "name": "José Duplicado",
+            "email": "jose@duplicado.com.br",
+            "cpf": "12178360041"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "card_details": {
+            "number": "4242424242424242",
+            "month": "12",
+            "year": "2050",
+            "cvv": "123"
+        }
+    },
+    "search": {
+        "account": {
+            "name": "Emily Stone",
+            "email": "emily@hotmail.com",
+            "cpf": "51676727833"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "card_details": {
+            "number": "4242424242424242",
+            "month": "12",
+            "year": "2050",
+            "cvv": "123"
+        }
+    },
+    "remove": {
+        "account": {
+            "name": "John Doe",
+            "email": "johndoe@gmail.com",
+            "cpf": "00000001406"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": 1,
+            "price": 99.99
+        },
+        "card_details": {
+            "number": "4242424242424242",
+            "month": "12",
+            "year": "2050",
+            "cvv": "123"
+        }
+    }
+    
+}
